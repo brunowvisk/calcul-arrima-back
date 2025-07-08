@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcul-arrima", "calcul-arrima.csproj", "{97470552-C108-4FBB-8801-D45F81310D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97470552-C108-4FBB-8801-D45F81310D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97470552-C108-4FBB-8801-D45F81310D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97470552-C108-4FBB-8801-D45F81310D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97470552-C108-4FBB-8801-D45F81310D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B263EF0-1179-44E9-8B63-B40BA8B8AC02}
+	EndGlobalSection
+EndGlobal
